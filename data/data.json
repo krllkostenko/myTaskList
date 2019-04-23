@@ -1,0 +1,17 @@
+[   
+    {
+        "value":"Create new task",
+        "status":"Open",
+        "priority":1
+    },
+    {
+        "value":"Task Created",
+        "status":"Finished",
+        "priority":2
+    },
+    {
+        "value":"Add more tasks",
+        "status":"Open",
+        "priority":3
+    }
+]

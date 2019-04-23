@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(40,56,82);
+    color: rgb(170, 190, 233);
+}
+.wrapper{
+    padding:15px;
+}
+textarea{
+    resize: none;
+}
+.addTask{
+    bottom: 30px;
+    width: 100%; 
+    margin-left: 15px;
+}
+.finishedTasks{
+    text-decoration: line-through;
+    color: #90a4ae;
+}
+.modal-title,.modal-body{
+    color:black;
+}
